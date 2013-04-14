@@ -45,7 +45,7 @@ Spork.each_run do
 
 end
 
-#Before running Spork, we can get a baseline for the testing overhead by timing our test suite as follows:
+Before running Spork, we can get a baseline for the testing overhead by timing our test suite as follows:
 
 
 # This file is copied to spec/ when you run 'rails generate rspec:install'
